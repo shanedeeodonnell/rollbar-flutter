@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.1
+
+- Bumped version of `connectivity_plus` dependency to `^5.0.2`.
+
 ## 1.5.0
 
 - Updated internal Rollbar Apple SDK to 3.2.0
